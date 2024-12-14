@@ -28,7 +28,7 @@ const Index = () => {
   ) || [];
 
   useEffect(() => {
-    const text = "Brainsoma";
+    const text = "Bsoma";
     let i = 0;
     const typingInterval = setInterval(() => {
       if (i < text.length) {
