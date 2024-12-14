@@ -28,7 +28,7 @@ const Index = () => {
   ) || [];
 
   useEffect(() => {
-    const text = "Hacker News Terminal";
+    const text = "Brainsoma";
     let i = 0;
     const typingInterval = setInterval(() => {
       if (i < text.length) {
